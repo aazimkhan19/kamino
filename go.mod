@@ -1,4 +1,4 @@
-module github.com/LastPossum/kamino
+module github.com/aazimkhan19/kamino
 
 go 1.19
 
